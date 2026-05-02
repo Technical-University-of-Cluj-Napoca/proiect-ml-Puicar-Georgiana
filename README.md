@@ -1,5 +1,4 @@
 Proiect Machine Learning — Sisteme Inteligente
-Descriere
 
 Acest proiect a fost realizat în cadrul cursului de Sisteme Inteligente și acoperă întregul pipeline de Machine Learning: analiză exploratorie (EDA), preprocesare, antrenare modele, optimizare hiperparametri, evaluare și explicabilitate.
 
@@ -7,24 +6,9 @@ Sunt abordate două tipuri de probleme:
 
 Clasificare: predicția bolii cardiace (Heart Disease UCI Dataset)
 Regresie: predicția prețurilor locuințelor (King County House Sales)
-Structura proiectului
-proiect-ml/
-├── notebooks/
-│   ├── clasificare.ipynb
-│   └── regresie.ipynb
-├── app/
-│   └── app.py
-├── data/
-│   ├── heart_disease.csv
-│   └── house_prices.csv
-├── models/
-├── plots/
-├── requirements.txt
-└── README.md
+
 Instalare și rulare
-Clonează repository-ul:
-git clone https://github.com/<username>/<repo-name>.git
-cd <repo-name>
+Clonează repository-ul
 Instalează dependențele:
 pip install -r requirements.txt
 Rulează notebook-urile pentru a genera modelele:
