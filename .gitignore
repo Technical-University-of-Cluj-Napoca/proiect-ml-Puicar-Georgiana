@@ -1,0 +1,8 @@
+.idea/
+models/
+plots/
+__pycache__/
+.ipynb_checkpoints/
+*.pkl
+.venv/
+catboost_info/
